@@ -117,6 +117,7 @@ Ceftriaxone, a third-generation cephalosporin and known beta-lactamase substrate
 
 **Alaa Hamid**  
 Bioengineering Graduate | Computational Drug Discovery Research Intern @ Bactrix
+
 [LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/)
 
 ---
