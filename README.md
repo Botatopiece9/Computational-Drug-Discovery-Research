@@ -19,7 +19,7 @@ Ceftriaxone, a third-generation cephalosporin and known beta-lactamase substrate
 | PDB ID | Protein | Class | Relevance |
 |--------|---------|-------|-----------|
 | [4HBU](https://www.rcsb.org/structure/4HBU) | Beta-lactamase (CTX-M-type) | Class A | Extended-spectrum resistance |
-| [3OPR](https://www.rcsb.org/structure/3OPR) | Beta-lactamase | Class A | Extended-spectrum resistance |
+| [3OPR](https://www.rcsb.org/structure/3OPR) | Beta-lactamase (SHV-1-type) | Class A | Extended-spectrum resistance |
 | [1JWZ](https://www.rcsb.org/structure/1JWZ) | TEM-64 beta-lactamase | Class A | Cephalosporin-resistant mutant |
 | [7OUK](https://www.rcsb.org/structure/7OUK) | AcrB (RND efflux pump transporter) | Efflux pump | Primary multidrug efflux transporter of AcrAB-TolC in *E. coli* |
 
